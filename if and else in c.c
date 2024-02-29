@@ -6,6 +6,7 @@ int main() {
 
     printf("Enter an integer: ");
     scanf("%d", &number);
+    
 
     // true if number is less than 0
     if (number < 0) {
@@ -13,6 +14,6 @@ int main() {
     }
 
     printf("The if statement is easy.");
-
+printf("this can be edted);
     return 0;
 }
